@@ -7,10 +7,29 @@
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="667427e1-b352-453f-8c32-da27116e301a" name="Default Changelist" comment="First Git" />
+    <list default="true" id="667427e1-b352-453f-8c32-da27116e301a" name="Default Changelist" comment="First Git">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-3/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-3/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-3/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-3/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-3/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-3/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-3/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-3/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-3/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-3/src/main.js" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,10 +39,16 @@
     <execution />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="1.0.1" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1kk9ujDBVnO4PTf7A0uLTk9Baih" />
   <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="更新" />
     <ConfirmationsSetting value="2" id="新增" />
   </component>
   <component name="ProjectViewState">
@@ -35,6 +60,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -46,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606233946315</updated>
-      <workItem from="1606233949795" duration="620000" />
+      <workItem from="1606233949795" duration="2158000" />
     </task>
     <task id="LOCAL-00001" summary="First Git">
       <created>1606234007457</created>
@@ -76,7 +102,21 @@
       <option name="project" value="LOCAL" />
       <updated>1606234567268</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="First Git">
+      <created>1606234725123</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1606234725123</updated>
+    </task>
+    <task id="LOCAL-00006" summary="First Git">
+      <created>1606235135564</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1606235135564</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,7 +127,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -98,6 +150,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="First Git" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="595" y="142" width="1695" height="750" key="DiffContextDialog" timestamp="1606236130053">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="595" y="142" width="1695" height="750" key="DiffContextDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1606236130053" />
     <state x="1158" y="493" key="NewPhpFileDialog" timestamp="1606234195946">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
@@ -106,9 +162,13 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="752" y="61" key="SettingsEditor/0.0.2560.1040@0.0.2560.1040" timestamp="1606234190571" />
-    <state x="867" y="170" key="Vcs.Push.Dialog.v2" timestamp="1606234571823">
+    <state x="867" y="170" key="Vcs.Push.Dialog.v2" timestamp="1606235238230">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="867" y="170" key="Vcs.Push.Dialog.v2/0.0.2560.1040@0.0.2560.1040" timestamp="1606234571823" />
+    <state x="867" y="170" key="Vcs.Push.Dialog.v2/0.0.2560.1040@0.0.2560.1040" timestamp="1606235238230" />
+    <state x="1146" y="397" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606234868255">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1146" y="397" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1040@0.0.2560.1040" timestamp="1606234868255" />
   </component>
 </project>
